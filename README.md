@@ -1,5 +1,12 @@
-## Dev C++ Assembly Python & More
-
+## ┌─[ DDoS]─────────────────────────────┐
+│                                            │
+│  > developer_                               │
+│                                            │
+│  Python · C++ · Assembly · JavaScript       │
+│  Frontend · Backend           │
+│                                            │
+│                        │
+└────────────────────────────────────────────┘
 <!--
 **536hz/536hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
