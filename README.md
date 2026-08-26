@@ -39,7 +39,6 @@ Interested in:
 
 - Backend Development
 - Frontend Development
-- Low-Level Programming
 - Software Engineering
 
 </td>
