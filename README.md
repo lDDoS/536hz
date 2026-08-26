@@ -1,15 +1,13 @@
-## Software Engineer 
-<!--
-**536hz/536hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/536hz/assets/blob/main/ChatGPT%20Image%2026%20de%20ago.%20de%202026%2C%2000_13_55.png?raw=true" width="100%" alt="developer">
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">DDoS</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Software Engineer • Backend • Frontend • Low-Level
+</p>
+
+<p align="center">
+  Python • C++ • Assembly • Java • JavaScript
+</p>
