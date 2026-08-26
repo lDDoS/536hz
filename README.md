@@ -5,7 +5,7 @@
 <h1 align="center">DDoS</h1>
 
 <p align="center">
-  Software Engineer • Backend • Frontend • Low-Level
+  Software Engineer • Backend • Frontend 
 </p>
 
 <p align="center">
